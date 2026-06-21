@@ -5,6 +5,14 @@
 
 ---
 
+<tr style="border: none;">
+    <td align="center" style="border: none; padding: 0;">
+      <img src="https://drive.google.com/uc?export=view&id=1Eoq8Gr6f9K0hYhZ1AV1Mc7iRBC1pNWrf" width="100%" />
+    </td>
+  </tr>
+
+---
+
 ## 📌 About Me
 - I'm a Computer Science student who enjoys turning ideas into real applications.
 - Currently diving deep into backend development using C# and .NET, while improving my problem-solving skills and understanding of data structures.
