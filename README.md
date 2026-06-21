@@ -1,52 +1,122 @@
 <div align="center">
 
-# Hi there, I'm Youssef! 👋
-### Computer Science Student | .NET Developer in the Making
-
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
----
-
-### 🚀 About Me
-I am a **Computer Science student** dedicated to mastering the **.NET ecosystem** and building robust, scalable backend systems. I firmly believe that great software engineering starts with a rock-solid grasp of fundamentals. That is why I actively focus on deep-diving into data structures, operating systems, database design, and writing clean, maintainable code alongside my academic journey.
-
----
-
-### 🛠️ Technical Skills
-
-| Domain | Technologies & Concepts |
-| :--- | :--- |
-| **Programming Languages** | C#, C++ |
-| **Frameworks & Ecosystems** | .NET |
-| **Databases** | SQL Server, Relational Database Design |
-| **Computer Science Core** | Data Structures & Algorithms (DSA), Operating Systems (OS) Concepts |
-| **Design Methodologies** | Object-Oriented Programming (OOP), SOLID Principles |
-| **Tools & Environments** | Linux (Ubuntu), Git & GitHub |
-
----
-
-### 🧠 My Engineering Philosophy
-* 🧩 **Problem Solving:** I thrive on breaking down complex architectural or algorithmic problems into optimized, elegant solutions.
-* 🧹 **Clean Code:** I consistently apply **SOLID principles** to ensure my code is readable, reusable, and ready for long-term maintenance.
-* 🐧 **Environment:** I prefer developing within the **Linux (Ubuntu)** ecosystem, enjoying the fine-grained control and productivity tools it offers.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
-### 🤝 Connect with Me
-* 💬 Feel free to explore my repositories or reach out for collaboration!
-* ⚡ *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Youssef%20Mostafa&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer&descSize=18&descAlignY=55&textBg=false" width="100%"/><img src="https://drive.google.com/uc?export=view&id=1Eoq8Gr6f9K0hYhZ1AV1Mc7iRBC1pNWrf" width="100%" />
 
 </div>
+
+---
+
+## 📌 About Me
+- I'm a Computer Science student who enjoys turning ideas into real applications.
+- Currently diving deep into backend development using C# and .NET, while improving my problem-solving skills and understanding of data structures.
+- I like challenges, learning new technologies, and building projects that make me better every day.
+
+---
+
+## 🛠️ Languages & Tools
+<!-- ANIMATED TECH ICONS -->
+<table align="center">
+<tr>
+<td align="center" width="100">
+<a href="#tech-stack">
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C#" />
+</a>
+<br><b>C#</b>
+</td>
+
+<td align="center" width="100">
+<a href="#tech-stack">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++" />
+</a>
+<br><b>C++</b>
+</td>
+
+<td align="center" width="100">
+<a href="#tech-stack">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API" />
+</a>
+<br><b>REST API</b>
+</td>
+
+<td align="center" width="100">
+<a href="#tech-stack">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+</a>
+<br><b>GitHub</b>
+</td>
+</tr>
+</table>
+<!-- SKILL ICONS - DARK THEME -->
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,html,css&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,linux,windows&theme=dark" />
+
+</div>
+
+---
+
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
+### Core Concepts
+- ASP.NET Core (MVC, Web APIs)
+- Entity Framework Core (Code First, Migrations, LINQ)
+- Dapper
+- SQL Server (DML, DDL, DCL, TCL, Indexing, Stored Procedures, Triggers)
+- Database Design (ERD, Mapping, Schema)
+- OOP (Encapsulation, Inheritance, Polymorphism, Abstraction)
+- SOLID Principles
+- Design Patterns (Repository, Unit of Work, Onion Architecture)
+- LINQ & Lambda Expressions
+- Collections & Generics
+- Delegates, Events
+
+</td>
+
+<td valign="top" width="50%">
+
+### Advanced Topics
+- Dependency Injection
+- Authentication & Authorization (JWT, Identity)
+- RESTful APIs
+- API Features (Paging, Filtering, Sorting)
+- Caching (Redis)
+- SignalR (Real-time apps)
+- Error Handling & Logging
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🟩 My Contributions 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yousefsrhan/yousefsrhan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yousefsrhan/yousefsrhan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yousefsrhan/yousefsrhan/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yousef-mahmoud-sarhan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="50" />
+  </a>
+  
+  <a href="https://www.youtube.com/@yousifsarhan8796" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" width="50" />
+  </a>
+  
+  <a href="mailto:yosifsarhan@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="50" />
+  </a>
+</p>
