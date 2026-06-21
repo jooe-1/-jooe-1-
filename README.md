@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Youssef%20Mostafa&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer&descSize=18&descAlignY=55&textBg=false" width="100%"/><img src="https://drive.google.com/uc?export=view&id=1Eoq8Gr6f9K0hYhZ1AV1Mc7iRBC1pNWrf" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=slice&height=200&color=gradient&customColorList=23,24,25&text=Youssef%20Mostafa&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer&descSize=18&descAlignY=55" width="100%"/>
 </div>
 
 ---
@@ -95,6 +94,30 @@
 
 ---
 
+## 🛠️ Featured Project
+
+### 🍽️ Jaeger Resto — Restaurant Management Backend API
+> **Status:** Live & Deployed 🚀
+
+A comprehensive and scalable Backend API designed to streamline restaurant operations, manage orders, and optimize table reservations.
+
+🔗 **API Documentation:** [Explore via Swagger UI](https://jooe.runasp.net/swagger/index.html) *(or wherever your swagger endpoint is located)*
+
+#### 🚀 Tech Stack & Core Concepts:
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+*   **Software Architecture:** Built following **Clean Architecture** principles to separate concerns and ensure maintainability.
+*   **Database Design:** Advanced SQL Server implementation featuring optimized queries, proper indexing, and complex joins for efficient data retrieval.
+*   **Domain Modeling:** Adopting rich domain models to encapsulate business logic effectively.
+
+#### 📌 Key System Features:
+*   **Order Management System:** Handling real-time order processing and status tracking.
+*   **Advanced Data Filtering:** Implementing complex CTEs and window functions for detailed financial and operational reporting.
+*   **Secure API Endpoints:** Structured routing and request validation for a robust backend.
+---
+
 ## 🟩 My Contributions 
 
 <picture>
@@ -108,15 +131,16 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yousef-mahmoud-sarhan/" target="_blank">
+  <a href="https://www.linkedin.com/in/youssef-mostafa-776611312/" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="50" />
   </a>
   
-  <a href="https://www.youtube.com/@yousifsarhan8796" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" width="50" />
+  <p align="center">
+  <a href="https://linkedin.com/in/youssef-abduallah-18260b312" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="50" />
   </a>
   
-  <a href="mailto:yosifsarhan@gmail.com" target="_blank">
+  <a href="mailto:asdewery5@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="50" />
   </a>
 </p>
